@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @faiza-muskan
-- 👀 I’m interested in learn coding more and more
+- 👀 I’m interested to learn coding more and more
 - 🌱 I’m currently learning Frontend development 
 - 📫 How to reach me faizamuskan.fm@gmail.com
 
