@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @faiza-muskan
 - 👀 I’m interested to learn coding more and more
-- 💻 I’m currently working as Frontend react developer
 - 🖥️ I'm also a freelancer
 - 📫 How to reach me faizamuskan.fm@gmail.com
 
